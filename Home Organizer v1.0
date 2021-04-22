@@ -1,0 +1,193 @@
+// Home Organizer v1.0
+// Dusty Lane
+
+dclick 0x42A5A1E9
+if findtype 'garlic' backpack 
+    overhead "Garlic"
+lifttype 'garlic' 9999
+drop 0x4506D5E0 -1 -1 0
+endif
+
+if findtype 'ginseng' backpack
+    overhead "Ginseng"
+lifttype 'ginseng' 9999
+drop 0x4506D5E0 -1 -1 0
+endif
+
+if findtype "spider's silk" backpack
+    overhead "Spider's Silk"
+lifttype "spider's silk" 9999
+drop 0x4506D5E0 -1 -1 0
+endif
+
+if findtype "mandrake root" backpack
+    overhead "Mandrake Root"
+lifttype "mandrake root" 9999
+drop 0x4506D5E0 -1 -1 0
+endif
+
+if findtype "black pearl" backpack
+overhead "Black Pearl"
+lifttype "black pearl" 9999
+drop 0x4506D5E0 -1 -1 0
+endif
+if findtype "blood moss" backpack
+overhead "Blood Moss"
+lifttype "blood moss" 9999
+drop 0x4506D5E0 -1 -1 0
+endif
+if findtype "nightshade" backpack
+overhead "Nightshade"
+lifttype "nightshade" 9999
+drop 0x4506D5E0 -1 -1 0
+endif
+if findtype "sulfurous ash" backpack
+overhead "Sulfuruous Ash"
+lifttype "sulfurous ash" 9999
+drop 0x4506D5E0 -1 -1 0
+endif
+
+
+dclick 0x4351B943
+if findtype 0x7166 backpack
+    overhead "Plant Chemicals"
+lifttype 0x7166 9999
+drop 0x4351B943 -1 -1 0
+endif
+if findtype "seed of renewal" backpack
+    overhead "Seed"
+lifttype "seed of renewal" 9999
+drop 0x4351B943 -1 -1 0
+endif
+if findtype "dirt patch" backpack
+    overhead "Dirt"
+lifttype "dirt patch" 9999
+drop 0x4351B943 -1 -1 0
+endif
+if findtype "cooked fish" backpack
+    overhead "Large Fish"
+lifttype "cooked fish" 9999
+drop 0x431C3F7E -1 -1 0
+endif
+if findtype "ham%s%" backpack
+    overhead "Ham"
+lifttype "ham%s%" 9999
+drop 0x431C3F7E -1 -1 0
+endif
+if findtype "Crab SOUTH" backpack
+    overhead "Crab"
+lifttype "Crab SOUTH" 9999
+drop 0x431C3F7E -1 -1 0
+endif
+if findtype "sliced ham" backpack
+    overhead "Steak"
+lifttype "sliced ham" 9999
+drop 0x431C3F7E -1 -1 0
+endif
+if findtype "sausage%s%" backpack
+    overhead "Sausage"
+lifttype "sausage%s%" 9999
+drop 0x431C3F7E -1 -1 0
+endif
+if findtype "Lobster SOUTH" backpack
+    overhead "Lobster"
+lifttype "Lobster SOUTH" 9999
+drop 0x431C3F7E -1 -1 0
+endif
+if findtype "slab%s% of bacon" backpack
+    overhead "Bacon"
+lifttype "slab%s% of bacon" 9999
+drop 0x431C3F7E -1 -1 0
+endif
+if findtype "raw leg%s% of lamb" backpack
+    overhead "Meat Shank"
+lifttype "raw leg%s% of lamb" 9999
+drop 0x431C3F7E -1 -1 0
+endif
+if findtype "raw fish steak%s%" backpack
+    overhead "Fish steak"
+lifttype "raw fish steak%s%" 9999
+drop 0x431C3F7E -1 -1 0
+endif
+if findtype "cut%s% of raw ribs" backpack
+    overhead "Ribs"
+lifttype "cut%s% of raw ribs" 9999
+drop 0x431C3F7E -1 -1 0
+endif
+if findtype "raw chicken leg%s%" backpack
+    overhead "Drumstick"
+lifttype "raw chicken leg%s%" 9999
+drop 0x431C3F7E -1 -1 0
+endif
+if findtype "board%s" backpack
+    overhead "Boards"
+lifttype "board%s" 9999
+drop 0x43FCC914 -1 -1 0
+endif
+if findtype "iron ingot%s" backpack
+    overhead "Ingots"
+lifttype "iron ingot%s" 9999
+drop 0x43FCC914 -1 -1 0
+endif
+if findtype "feather%s" backpack
+    overhead "Feathers"
+lifttype "feather%s" 9999
+drop 0x43FCC914 -1 -1 0
+endif
+if findtype "cut up leather" backpack
+    overhead "Leather"
+lifttype "cut up leather" 9999
+drop 0x4227AB56 -1 -1 0
+endif
+
+dclick 0x453925F3
+if findtype "flask" backpack
+    overhead "Aspect Bong"
+lifttype "flask" 9999
+drop 0x43FA6884 -1 -1 0
+endif
+if findtype 0xEFC backpack
+    overhead "Aspect Distillation"
+lifttype 0xEFC 9999
+drop 0x43FA6884 -1 -1 0
+endif
+if findtype "aspect core" backpack
+    overhead "Aspect Core"
+lifttype "aspect core" 9999
+drop 0x4639FD1A -1 -1 0
+endif
+if findtype "phylactery" backpack
+    overhead "Aspect Phylactery"
+lifttype "phylactery" 9999
+drop 0x4251036B -1 -1 0
+endif
+if findtype "Book of Truth" backpack
+    overhead "MCD"
+lifttype "Book of Truth" 9999
+drop 0x463AC200 -1 -1 0
+endif
+if findtype "scroll of calling" backpack
+    overhead "SS"
+lifttype "scroll of calling" 9999
+drop 0x420C2892 -1 -1 0
+endif
+if findtype 0x72A4 backpack
+    overhead "Research Materials"
+lifttype 0x72A4 9999
+drop 0x463AC200 -1 -1 0
+endif
+if findtype 0x716C backpack
+    overhead "Dye"
+lifttype 0x716C 9999
+drop 0x4399BDBD -1 -1 0
+endif
+if findtype 0xF03 backpack
+    overhead "Shield Dye"
+lifttype 0xF03 9999
+drop 0x4399BDBD -1 -1 0
+endif
+if findtype "folded cloth" backpack
+    overhead "Special Cloth"
+lifttype "folded cloth" 9999
+drop 0x453C5AD3 -1 -1 0
+endif
